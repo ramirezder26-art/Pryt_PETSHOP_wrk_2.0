@@ -19208,7 +19208,7 @@ const j3 = {
                         className: "font-bold text-peludog-text hover:text-peludog-blue transition-colors",
                         children: u.name
                     }, u.name)), b.jsxs("a", {
-                        href: "https://wa.me/5491169144663?text=Hola%20Petify!%20Me%20gustar%C3%ADa%20agendar%20un%20turno.",
+                        href: "https://wa.me/5491169144663?text=Hola%20Evildog!%20Me%20gustar%C3%ADa%20agendar%20un%20turno.",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         className: "bg-peludog-yellow hover:bg-peludog-yellow-hover text-peludog-text font-bold py-2 px-5 rounded-full inline-flex items-center gap-2 transition-transform hover:scale-105",
@@ -19247,7 +19247,7 @@ const j3 = {
                     className: "block px-3 py-3 rounded-xl font-bold text-peludog-text hover:bg-peludog-cyan hover:text-peludog-blue",
                     children: u.name
                 }, u.name)), b.jsxs("a", {
-                    href: "https://wa.me/5491169144663?text=Hola%20Petify!%20Me%20gustar%C3%ADa%20agendar%20un%20turno.",
+                    href: "https://wa.me/5491169144663?text=Hola%20Evildog!%20Me%20gustar%C3%ADa%20agendar%20un%20turno.",
                     target: "_blank",
                     rel: "noopener noreferrer",
                     className: "mt-4 w-full bg-peludog-yellow hover:bg-peludog-yellow-hover text-peludog-text font-bold py-3 px-5 rounded-full inline-flex items-center justify-center gap-2",
@@ -19335,7 +19335,7 @@ const j3 = {
                 }), b.jsxs("div", {
                     className: "flex flex-col sm:flex-row gap-4 justify-center lg:justify-start",
                     children: [b.jsxs("a", {
-                        href: "https://wa.me/5491169144663?text=Hola%20Petify!%20Vengo%20de%20su%20sitio%20web%20y%20me%20gustar%C3%ADa%20reservar%20un%20turno.",
+                        href: "https://wa.me/5491169144663?text=Hola%20Evildog!%20Vengo%20de%20su%20sitio%20web%20y%20me%20gustar%C3%ADa%20reservar%20un%20turno.",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         className: "bg-peludog-yellow hover:bg-peludog-yellow-hover text-peludog-text font-display font-bold text-lg py-3 px-8 rounded-full inline-flex items-center justify-center gap-2 shadow-lg shadow-peludog-yellow/30 transition-transform hover:-translate-y-1",
@@ -19405,7 +19405,7 @@ const j3 = {
         })
     })]
 })
-  , V3 = () => {
+  , _3 = () => {
     const a = [{
         title: "Baño para mascotas",
         description: "Baños relajantes con productos hipoalergénicos y específicos para cada tipo de manto.",
@@ -19471,7 +19471,7 @@ const j3 = {
         })
     })
 }
-  , _3 = () => {
+  , V3 = () => {
     const a = [{
         title: "Alimentos Premium",
         description: "Balanceados de alta calidad para todas las etapas de vida de tu mascota.",
@@ -19558,7 +19558,7 @@ const j3 = {
                         className: "text-peludog-text text-lg font-medium leading-relaxed mb-6",
                         children: ["En ", b.jsx("strong", {
                             className: "text-peludog-blue",
-                            children: "Petify"
+                            children: "EVIL DOG"
                         }), " combinamos un Pet Shop completo con servicios de peluquería y estética profesional para que tu mascota luzca y se sienta de maravilla."]
                     }), b.jsx("p", {
                         className: "text-peludog-text/80 font-medium leading-relaxed",
@@ -19594,7 +19594,7 @@ const j3 = {
         })
     }, {
         title: "Ubicación ideal",
-        description: "Fácil acceso para vecinos de Caballito y alrededores.",
+        description: "Fácil acceso para vecinos de Wilde y alrededores.",
         icon: b.jsx(Sl, {
             className: "w-7 h-7 text-white"
         })
@@ -19822,7 +19822,7 @@ const j3 = {
                 children: b.jsx("div", {
                     className: "bg-peludog-gray p-2 rounded-[40px] shadow-lg border border-gray-100 overflow-hidden h-[400px]",
                     children: b.jsx("iframe", {
-                        src: "https://maps.google.com/maps?width=100%25&height=600&hl=es&q=Av.%20Santa%20Fe%203456,%20Buenos%20Aires+(Petify)&t=&z=16&ie=UTF8&iwloc=B&output=embed",
+                        src: "https://maps.google.com/maps?width=100%25&height=600&hl=es&q=Av.%20Cno.%20Gral.%20Belgrano%206390,%20Buenos%20Aires+(Evildog)&t=&z=16&ie=UTF8&iwloc=B&output=embed",
                         width: "100%",
                         height: "100%",
                         style: {
@@ -19832,7 +19832,7 @@ const j3 = {
                         allowFullScreen: !0,
                         loading: "lazy",
                         referrerPolicy: "no-referrer-when-downgrade",
-                        title: "Mapa de ubicación Petify"
+                        title: "Mapa de ubicación EVILDOG"
                     })
                 })
             }), b.jsxs("div", {
@@ -19845,7 +19845,7 @@ const j3 = {
                     })]
                 }), b.jsx("p", {
                     className: "text-peludog-text text-lg font-medium mb-8",
-                    children: "Estamos en Caballito, en una ubicación muy accesible para los vecinos del barrio y zonas cercanas."
+                    children: "Estamos en Wilde, en una ubicación muy accesible para los vecinos del barrio y zonas cercanas."
                 }), b.jsxs("div", {
                     className: "bg-peludog-cyan rounded-3xl p-6 mb-8 flex items-start gap-4 border border-peludog-blue/10",
                     children: [b.jsx("div", {
@@ -19859,11 +19859,11 @@ const j3 = {
                             children: "Dirección"
                         }), b.jsxs("p", {
                             className: "text-peludog-text font-medium text-lg",
-                            children: ["Av. Santa Fe 3456 ", b.jsx("br", {}), " C1425 Ciudad Autónoma de Buenos Aires"]
+                            children: ["Cno. Gral. Belgrano 6390 ", b.jsx("br", {}), " B1825 Wilde, Provincia de Buenos Aires"]
                         })]
                     })]
                 }), b.jsxs("a", {
-                    href: "https://maps.google.com/?q=Av.+Santa+Fe+3456,+Buenos+Aires",
+                    href: "https://maps.google.com/?q=Cno.+Gral.+Belgrano+6390,+Wilde",
                     target: "_blank",
                     rel: "noopener noreferrer",
                     className: "bg-peludog-yellow hover:bg-peludog-yellow-hover text-peludog-text font-bold py-3 px-8 rounded-full inline-flex items-center justify-center gap-2 transition-transform hover:-translate-y-1 shadow-md w-full sm:w-auto text-lg",
@@ -19890,7 +19890,7 @@ const j3 = {
     }
       , u = h => {
         h.preventDefault();
-        const d = `Hola Petify! Soy ${a.nombre}. Quería hacer una consulta sobre mi mascota ${a.mascota}: ${a.consulta}`
+        const d = `Hola EVILDOG! Soy ${a.nombre}. Quería hacer una consulta sobre mi mascota ${a.mascota}: ${a.consulta}`
           , m = `https://wa.me/5491169144663?text=${encodeURIComponent(d)}`;
         window.open(m, "_blank")
     }
@@ -19963,7 +19963,7 @@ const j3 = {
                     }), b.jsxs("div", {
                         className: "flex flex-col sm:flex-row gap-4",
                         children: [b.jsxs("a", {
-                            href: "https://wa.me/5491169144663?text=Hola%20Petify!%20Quisiera%20hacer%20una%20consulta.",
+                            href: "https://wa.me/5491169144663?text=Hola%20Evildog!%20Quisiera%20hacer%20una%20consulta.",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className: "flex-1 bg-peludog-blue hover:bg-peludog-blue-light text-white font-bold py-4 px-6 rounded-2xl flex flex-col items-center justify-center gap-2 transition-colors shadow-md border border-peludog-blue/20",
@@ -19986,7 +19986,7 @@ const j3 = {
                         children: [b.jsx(Sl, {
                             className: "text-peludog-blue flex-shrink-0"
                         }), b.jsx("span", {
-                            children: "Av. Santa Fe 3456, Palermo (CABA)"
+                            children: "Cno. Gral. Belgrano 6390 (Wilde, Prov. Bs.As.)"
                         })]
                     })]
                 }), b.jsxs("div", {
@@ -20080,19 +20080,22 @@ const j3 = {
                 children: [b.jsxs("div", {
                     className: "flex items-center gap-2 mb-4",
                     children: [b.jsx("div", {
-                        className: "w-12 h-12 bg-white rounded-full flex items-center justify-center text-peludog-blue font-display font-bold text-2xl overflow-hidden shadow-lg shadow-black/10",
-                        children: b.jsx("span", {
-                            className: "translate-y-px",
-                            children: "PD"
-                        })
+                        className: "w-16 h-16 flex items-center justify-center",
+                            children: b.jsx("span", {
+                                className: "translate-y-px",
+                                children: b.jsx("img", {
+                                            src: "./images/logo.png", 
+                                            alt: "Logo",
+                                            className: "w-full h-full object-contain"
+                            })})
                     }), b.jsxs("div", {
                         className: "text-left",
                         children: [b.jsx("span", {
                             className: "font-display font-extrabold text-2xl text-white block leading-tight",
-                            children: "Petify"
+                            children: "EVILDOG"
                         }), b.jsx("span", {
                             className: "font-sans text-xs text-peludog-yellow font-bold uppercase tracking-wider block",
-                            children: "Estética Canina"
+                            children: "Pet Shop"
                         })]
                     })]
                 }), b.jsx("p", {
@@ -20107,7 +20110,7 @@ const j3 = {
                         className: "text-peludog-yellow flex-shrink-0",
                         size: 20
                     }), b.jsx("span", {
-                        children: "Av. Santa Fe 3456, CABA"
+                        children: "Cno. Gral. Belgrano 6390, Wilde"
                     })]
                 }), b.jsxs("a", {
                     href: "tel:01169144663",
@@ -20127,7 +20130,7 @@ const j3 = {
             }), b.jsx("div", {
                 className: "flex flex-col items-center md:items-end",
                 children: b.jsxs("a", {
-                    href: "https://wa.me/5491169144663?text=Hola%20Petify!%20Me%20gustar%C3%ADa%20agendar%20un%20turno.",
+                    href: "https://wa.me/5491169144663?text=Hola%20Evildog!%20Me%20gustar%C3%ADa%20agendar%20un%20turno.",
                     target: "_blank",
                     rel: "noopener noreferrer",
                     className: "bg-peludog-yellow hover:bg-peludog-yellow-hover text-peludog-text font-bold py-3 px-6 rounded-full inline-flex items-center gap-2 shadow-lg shadow-peludog-yellow/20 transition-transform hover:-translate-y-1",
@@ -20140,7 +20143,7 @@ const j3 = {
             className: "border-t border-white/20 pt-8 text-center",
             children: b.jsxs("p", {
                 className: "text-blue-200 text-sm font-medium",
-                children: ["© ", new Date().getFullYear(), " Petify. Todos los derechos reservados."]
+                children: ["© ", new Date().getFullYear(), " EVILDOG. Todos los derechos reservados."]
             })
         })]
     })
